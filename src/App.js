@@ -8,6 +8,8 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           hi there! im being productive in vs code!
+
+          and make new changes
         </p>
         <a
           className="App-link"
